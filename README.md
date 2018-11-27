@@ -1,4 +1,4 @@
-# graphjs-server-management-scripts
+# GraphJS Server Management Scripts
 
 A set of scripts we use internally to manage GraphJS servers
 
